@@ -1,6 +1,6 @@
 <!-- ### Hi there, I'm <a href="https://harshverma.netlify.app" target="_blank">Harsh Verma</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=times+new+roman&color=F7863F&size=45&center=true&vCenter=true&width=700&height=80&lines=Hi%2C+I+Am+Harsh+Verma;A+Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=times+new+roman&color=F7863F&size=45&center=true&vCenter=true&width=700&height=80&lines=Hi%2C+I+Am+Mahendra+Soni;A+Full+Stack+Developer)](https://git.io/typing-svg)
 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harshverma036/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://harshverma.netlify.app)
