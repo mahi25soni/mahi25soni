@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=times+new+roman&color=F7863F&size=45&center=true&vCenter=true&width=700&height=80&lines=Hi%2C+I+Am+Mahendra+Soni;A+Full+Stack+Developer)](https://git.io/typing-svg)
 
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harshverma036/)
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahi25soni/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://harshverma.netlify.app)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/dev__harsh) asAS-->
 <!-- Badges template - https://github.com/badges/shields -->
@@ -128,8 +128,8 @@
 📈 **My GitHub Stats:**
 
 <center>
-   <!-- <a href="#"><img alt="Harsh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=harshverma036&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180px" /></a> -->
-  <a href="#"><img alt="Harsh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshverma036&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180px" /></a>
+   <!-- <a href="#"><img alt="Harsh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mahi25soni&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180px" /></a> -->
+  <a href="#"><img alt="Harsh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahi25soni&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180px" /></a>
 </center>
 
 ## 🔥 Streak stats
@@ -137,11 +137,11 @@
 <!-- GitHub Readme Streak Statzxcs - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="harshverma036" src="https://github-readme-streak-stats.herokuapp.com?user=harshverma036&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="mahi25soni" src="https://github-readme-streak-stats.herokuapp.com?user=mahi25soni&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
   </a>
 </p>
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=harshverma036&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mahi25soni&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
 
-<!-- [![Harsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshverma036&bg_color=000000&color=c454bd&line=c454bd&point=aba0a0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+<!-- [![Harsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mahi25soni&bg_color=000000&color=c454bd&line=c454bd&point=aba0a0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
